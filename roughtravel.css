@@ -234,6 +234,13 @@ button{
     .destination{
         width:100%;
     }
+    nav ul{ 
+        width:100%;
+        justify-content: center;
+    }
+    nav li{
+        padding: 10px;
+    }
 
 }
 @media  only  screen and  (min-width:301px) and (max-width:600px){
@@ -245,6 +252,13 @@ button{
     }
     .destination{
         width:100%;
+    }
+    nav ul{ 
+        width:100%;
+        justify-content: center;
+    }
+    nav li{
+        padding: 10px;
     }
 }
 @media  only  screen and (min-width:600px) and (max-width:800px){
